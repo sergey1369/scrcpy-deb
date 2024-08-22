@@ -10,10 +10,6 @@ scrcpy rebuid for MX23
 dpkg -i scrcpy_2.6.1-1_amd64.deb scrcpy-server_2.6.1-1_all.deb
 ```
 
-```
-
-```
-
 ## Build
 
 ```
